@@ -1,0 +1,1 @@
+ # self.button = QPushButton("Click me!", self)
